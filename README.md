@@ -1,4 +1,4 @@
 # Spider
 
-Toy of spider used to get the name and student number from the [https:://z.seiee.com](https://z.seiee.com)
+Toy of spider used to get the name and student number from the [https://z.seiee.com](https://z.seiee.com)
 The name of output file is b.txt
